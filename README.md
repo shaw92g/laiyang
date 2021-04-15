@@ -5,7 +5,9 @@
 * It can be run on Windows, Linux or iOS
 
 ## How to run the code?
-* Once java is installed on your system execute ``java -jar laiyang/out/artifacts/laiyang_jar/laiyang.jar`` on your terminal
+* Verify that java is installed an working on your terminal by executing ``java -version`` 
+* To run the jar execute``java -jar laiyang/out/artifacts/laiyang_jar/laiyang.jar``
+* This executable has been tested to be working in iOS and Windows.
 
 ## Assumptions:
 * Distributed processes are simulated using threads
