@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="laiyang:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/laiyang_jar</output-path>
+    <root id="archive" name="laiyang.jar">
+      <element id="module-output" name="laiyang" />
+    </root>
+  </artifact>
+</component>
