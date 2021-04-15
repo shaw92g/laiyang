@@ -7,9 +7,6 @@ import java.util.Random;
 public class Channel {
     private PriorityQueue<Message> queue;
 
-    // a random number between 0 and 9999
-    private int randInt = new Random().nextInt(100 - 1) + 1;
-
     public enum Mode{
         FIFO, NON_FIFO
     }

@@ -85,7 +85,6 @@ public class Process extends Thread {
                     }
 
                     System.out.format("%s: Stopped\n", getProcessLabel());
-                    System.out.println(getSnapshot());
                     break;
                 }
             }
